@@ -1,0 +1,9 @@
+sources:
+  - name: s1
+    database: DEV_DB
+    schema: dev_schema
+    tables:
+      - name: customers
+      - name: orders
+      - name: payment
+      - name: emp
